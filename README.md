@@ -1,2 +1,2 @@
-# sirwalterraleigh
+# sirwalter
 Testing creation of a repository

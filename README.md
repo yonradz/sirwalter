@@ -1,2 +1,2 @@
 # sirwalter
-Testing creation of a repository
+Creating a repo for pynet

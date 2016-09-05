@@ -1,2 +1,2 @@
 # sirwalterraleigh
-Testing create a repository
+Testing creation of a repository
